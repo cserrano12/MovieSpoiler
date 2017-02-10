@@ -1,0 +1,10 @@
+
+    body {
+        background-color: black; color: white; font-family: arial;
+    }
+    .spoil-protect {
+        background-color: black; color: black;
+    }
+    .spoil-protect:hover {
+      background-color: black; color: white;
+    }
